@@ -1,3 +1,9 @@
+# build binary
+btops
+
+# IDE specific config
+.idea/
+
 # Binaries for programs and plugins
 *.exe
 *.dll
